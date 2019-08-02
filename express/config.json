@@ -1,9 +1,0 @@
-{
-  "apiKey": "AIzaSyBB3vSIZ7iq_K2AemMzxxsK-lDqAoqrr74",
-  "authDomain": "netlify-express-logger.firebaseapp.com",
-  "databaseURL": "https://netlify-express-logger.firebaseio.com",
-  "projectId": "netlify-express-logger",
-  "storageBucket": "netlify-express-logger.appspot.com",
-  "messagingSenderId": "576658124044",
-  "appId": "1:576658124044:web:19f296a1855d9639"
-}
